@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div align="center" background-color="red">
   
 
   ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Andrew%20The%20Teacher&fontSize=90)
