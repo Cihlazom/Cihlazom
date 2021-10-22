@@ -3,7 +3,7 @@
 <div align="center">
   
 
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=801300&height=300&section=header&text=Cihlazom&fontSize=90&fontColor=B7BFCA)
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=801300&height=300&section=header&text=Cihlazom&fontSize=90&fontColor=718198)
   </br>
   [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cshelob)](https://github.com/Cihlazom/badge42)
 
