@@ -7,12 +7,6 @@
 
   </div>
   
-  css
-    body {
-        margin: 0;
-        padding: 0;
-        background-color: red;
-    }
 <!--
 **Cihlazom/Cihlazom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
