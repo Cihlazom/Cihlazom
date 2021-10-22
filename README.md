@@ -1,4 +1,13 @@
-### Hi there 👋
+
+
+<div align="center">
+  
+
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Andrew%20The%20Teacher&fontSize=90)
+  </br>
+  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cshelob)](https://github.com/Cihlazom/badge42)
+
+</div>
 
 <!--
 **Cihlazom/Cihlazom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
