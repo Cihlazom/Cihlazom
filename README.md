@@ -6,13 +6,7 @@
   [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cshelob)](https://github.com/Cihlazom/badge42)
 
 </div>
-  
-```css
-    body {
-        margin: 0;
-        padding: 0;
-        background-color: red;
-    }
+
 
 <!--
 **Cihlazom/Cihlazom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
