@@ -7,7 +7,7 @@
 
 </div>
 
-### Так же посмотрите <a href="https://mighty-atoll-35433.herokuapp.com/">мой сайт</a>
+<!-- ### Так же посмотрите <a href="https://mighty-atoll-35433.herokuapp.com/">мой сайт</a> -->
 
 
 <!--
